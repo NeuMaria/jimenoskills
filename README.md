@@ -9,7 +9,7 @@ Proyecto en Java que permite gestionar un instituto con alumnos, profesores, aul
 
 ## 🚀 Tecnologías usadas
 
-- Java 17+
+- Java 23+
 - Swing (interfaz gráfica)
 - Hibernate (JPA)
 - MySQL
