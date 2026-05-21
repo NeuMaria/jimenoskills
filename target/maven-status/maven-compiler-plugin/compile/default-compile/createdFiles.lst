@@ -1,0 +1,10 @@
+com\ejemplo\modelo\Articulo.class
+com\ejemplo\util\JPAUtil.class
+com\ejemplo\dao\ClienteDAO.class
+com\ejemplo\modelo\Asistente.class
+com\ejemplo\Main.class
+com\ejemplo\dao\VentaDAO.class
+com\ejemplo\dao\AsistenteDAO.class
+com\ejemplo\modelo\Venta.class
+com\ejemplo\modelo\Cliente.class
+com\ejemplo\dao\ArticuloDAO.class
