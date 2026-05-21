@@ -1,3 +1,6 @@
+>[!IMPORTANT]
+>CREAR LA BASE DE DATOS INSTITUTO Y CAMBIAR EL PUERTO ANTES DE EJECUTAR
+
 #  Sistema de Gestión de Instituto
 
 Proyecto en Java que permite gestionar un instituto con alumnos, profesores, aulas, incidencias y reservas usando Hibernate (JPA) y MySQL.
