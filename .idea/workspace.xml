@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88fe3606-b3c7-4ca7-aba7-7e3c9ecfbe75" name="Changes" comment="" />
+    <list default="true" id="88fe3606-b3c7-4ca7-aba7-7e3c9ecfbe75" name="Changes" comment="Primer commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/dao/AlumnoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/dao/AlumnoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/dao/AulaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/dao/AulaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/dao/IncidenciaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/dao/IncidenciaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/dao/ProfesorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/dao/ProfesorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/dao/ReservaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/dao/ReservaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/model/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/model/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/model/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/informatica/model/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/informatica/model/Profesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelAlumno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelAlumno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelAula.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelAula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelIncidencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelIncidencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelProfesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelReserva.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/PanelReserva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/app/VentanaPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/app/VentanaPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/dao/AlumnoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/dao/AlumnoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/dao/AulaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/dao/AulaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/dao/IncidenciaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/dao/IncidenciaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/dao/ProfesorDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/dao/ProfesorDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/dao/ReservaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/dao/ReservaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/model/Alumno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/model/Alumno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/model/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/informatica/model/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/informatica/model/Profesor.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,23 +47,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aislimani25"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aislimani25&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NeuMaria/jimenoskills.git",
-    "accountId": "f314c255-b9cf-4ea9-9341-bc18b5c2a06f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NeuMaria/jimenoskills.git&quot;,
+    &quot;accountId&quot;: &quot;f314c255-b9cf-4ea9-9341-bc18b5c2a06f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3E2S9hzHV25p1UDudEihlGYGhtU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,9 +79,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "SlimaniAhmed",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Alumnado FP/IdeaProjects/jimenoskills/src/main"
+    "last_opened_file_path": "C:/Users/Alumnado FP/Documents/SlimaniAhmed"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,6 +103,15 @@
       <option name="presentableId" value="Default" />
       <updated>1779375022169</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <option name="closed" value="true" />
+      <created>1779388323027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779388323027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,10 +119,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/SlimaniAhmed" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
   </component>
 </project>

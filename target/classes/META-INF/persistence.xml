@@ -7,11 +7,11 @@
     <persistence-unit name="informática">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-        <class>com.informatica.modelo.Alumno</class>
-        <class>com.informatica.modelo.Aula</class>
-        <class>com.informatica.modelo.Persona</class>
-        <class>com.informatica.modelo.Profesor</class>
-        <class>com.informatica.modelo.Reserva</class>
+        <class>com.informatica.model.Alumno</class>
+        <class>com.informatica.model.Aula</class>
+        <class>com.informatica.model.Profesor</class>
+        <class>com.informatica.model.Reserva</class>
+        <class>com.informatica.model.Incidencia</class>
 
         <properties>
             <!-- Cambia usuario, contraseña y base de datos si lo necesitas -->
